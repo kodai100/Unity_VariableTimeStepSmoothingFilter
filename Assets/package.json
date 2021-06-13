@@ -1,0 +1,13 @@
+{
+  "name": "com.kodai100.variable-timestep-smoothing-filter",
+  "displayName": "Variable Time Step Smoothing Filter",
+  "version": "1.0.0",
+  "unity": "2021.1",
+  "description": "Robust smoothing filter algorithm for Unity",
+  "keywords": [
+    "ProjectBLUE",
+    "kodai100",
+    "Filter"
+  ],
+  "unityRelease": "10f1"
+}
